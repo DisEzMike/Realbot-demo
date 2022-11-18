@@ -2,7 +2,7 @@
 
 Discord bot that called **RealHome Bot**, or **RealBot** for short, coded in [Typescript][ts] with [discord.js][djs] and [MongoDB][mongo] by [Disezmike][itsme]
 
-> If you get any bugs please tell [me][itsme] !
+> If you get any bugs please contact [me][itsme] !
 
 ## Feature Commands
 
@@ -14,7 +14,7 @@ Discord bot that called **RealHome Bot**, or **RealBot** for short, coded in [Ty
 
 ## Getting started ✨
 
-Install a [git](https://git-scm.com/downloads) and [Docker](https://www.docker.com/products/docker-desktop/) or in command line.
+Install a [Git](https://git-scm.com/downloads) and [Docker](https://www.docker.com/products/docker-desktop/) or in command line.
 
 ```shell
 sudo apt-get install git-all
