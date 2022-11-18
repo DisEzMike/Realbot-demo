@@ -78,7 +78,7 @@ Choose **2.2.12 or later** version, then copy a URL.
 **Clone a repository**
 
 ```shell
-git clone <url> realbot-demo
+git clone https://github.com/DisEzMike/Realbot-demo.git realbot-demo
 cd realbot-demo
 ```
 
@@ -107,7 +107,8 @@ After build, run.
 sudo docker run realbot:demo
 ```
 
-If it works, it will show
+If it works, it will show :
+
 [![image.png](https://i.postimg.cc/MHcNQwPx/image.png)](https://postimg.cc/ctSXppG5)
 
 ### Done!
